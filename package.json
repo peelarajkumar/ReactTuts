@@ -1,0 +1,18 @@
+{
+  "name": "reactdependecies",
+  "version": "1.0.6",
+  "description": "This is React Tutorial by Raj",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "tutorial"
+  ],
+  "author": "rajkumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
