@@ -1,2 +1,4 @@
 /node_modules
 /duplicate.html
+/.parcel-cache
+/dist

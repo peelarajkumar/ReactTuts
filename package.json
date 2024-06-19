@@ -2,7 +2,6 @@
   "name": "reactdependecies",
   "version": "1.0.6",
   "description": "This is React Tutorial by Raj",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -13,6 +12,11 @@
   "author": "rajkumar",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
