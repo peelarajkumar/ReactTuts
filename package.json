@@ -3,7 +3,9 @@
   "version": "1.0.6",
   "description": "This is React Tutorial by Raj",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
   },
   "keywords": [
     "react",
@@ -18,5 +20,9 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  }
+  },
+  "browsers-list":[
+    "last 2 chrome version",
+    "last 5 firefox version"
+  ]
 }
